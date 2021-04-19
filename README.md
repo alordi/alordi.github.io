@@ -8,6 +8,10 @@ Hi my name is Austin Lordi and I am a senior at Lehigh University studying compu
 
 This web page is dedicated to showcasing my projects from both my COMM 165: Data Storytelling class as well as some of my other personal projects that I have been working on in my spare time.
 
+COMM 165 Projects:
+
+<div class='tableauPlaceholder' id='viz1618797869757' style='position: relative'><noscript><a href='#'><img alt='University Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_16187975852260&#47;UniversityData&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book2_16187975852260&#47;UniversityData' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_16187975852260&#47;UniversityData&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>var divElement = document.getElementById('viz1618797869757'); var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 <iframe title="Lehigh Student Enrollment" aria-label="chart" id="datawrapper-chart-R1bsT" src="https://datawrapper.dwcdn.net/R1bsT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -15,14 +19,4 @@ This web page is dedicated to showcasing my projects from both my COMM 165: Data
 
 <iframe title="Fantasy Football Points Allowed (DraftKings)" aria-label="Dot Plot" id="datawrapper-chart-fQ74f" src="https://datawrapper.dwcdn.net/fQ74f/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="689"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-COMM: 165 Projects:
-
-Other Projects:
-
-[Spotify Data App](https://stats.alordi.com/)
-
-[Ab Workout Generator](https://abs.alordi.com/)
-
-[Joke Text Bot](https://github.com/alordi/jokeAPI)
 
