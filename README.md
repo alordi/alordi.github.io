@@ -6,7 +6,7 @@
 
 Hi my name is Austin Lordi and I am a senior at Lehigh University studying computer science from Lansdale, PA. My interests include sports (most notably football and basketball), listening to and collecting music, weightlifting, playing tennis, playing video games, watching movies, and sports betting/daily fantasy sports. My hope is to apply my computer science skills to make a positive a impact on the world.
 
-This web page is dedicated to showcasing my projects from both my COMM 165: Data Storytelling class as well as some of my other personal projects that I have been working on in my spare time.
+This web page is dedicated to showcasing my projects from my COMM 165: Data Storytelling class.
 
 COMM 165 Projects:
 
