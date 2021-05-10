@@ -1,6 +1,6 @@
 # Austin Lordi
 
-![profile](https://github.com/alordi/alordi.github.io/blob/main/22305D82-2343-47E4-BEA2-C3D389B8D9F6.jpeg?raw=true){:height="10%" width="10%"}
+![profile](https://github.com/alordi/alordi.github.io/blob/main/22305D82-2343-47E4-BEA2-C3D389B8D9F6.jpeg?raw=true){:height="20%" width="20%"}
 
 [My LinkedIn](https://www.linkedin.com/in/alordi/)
 
